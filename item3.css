@@ -1,0 +1,29 @@
+body {
+    background-color:wheat;
+}
+
+h2 {
+    direction: rtl;
+    color: orange;
+    font-size: 40px;
+    margin-right: 40px;
+}
+
+div.img {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+    direction: rtl;
+}
+
+div.link {
+    margin-left: 40px;
+    margin-top: 120px;
+    font-size: 20px;
+}

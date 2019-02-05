@@ -1,0 +1,21 @@
+body {
+background-image: url(1.jpg);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 80px;
+    margin-top: 310px;
+}
+
+div.links {
+    text-align: center;
+    font-size: 55px;
+}
+
+div.text {
+    text-align: center;
+    margin-top: 300px;
+    font-size: 25px;
+}
